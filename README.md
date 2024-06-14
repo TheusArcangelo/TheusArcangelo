@@ -17,10 +17,14 @@
   </div>
 
 ## ᴡᴏʀᴋ 🖌
-Design
+<li> ᴅᴇꜱɪɢɴ
 
 ![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+<li> ᴘʜᴏᴛᴏɢʀᴀᴘʜʏ
+
+[![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ft_.otheus)
 
 ## ᴄᴏɴᴛᴀᴄᴛꜱ ✉
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
