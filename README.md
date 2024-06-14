@@ -24,3 +24,5 @@ Design
 
 ## ᴄᴏɴᴛᴀᴄᴛꜱ ✉
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](matheusarcangelo2017@gmail.com)
+
