@@ -1,34 +1,5 @@
 ## ʜɪ ᴍʏ ɴᴀᴍᴇ ɪꜱ ᴍᴀᴛʜᴇᴜꜱ ᴀʀᴄᴀɴɢᴇʟᴏ  👋
 
-<div class="typewriter">
-        <h1>The cat and the hat.</h1>
-      </div>
-      
-.typewriter h1 {
-    color: #fff;
-    font-family: monospace;
-    overflow: hidden; 
-    border-right: .15em solid orange; 
-    white-space: nowrap; 
-    margin: 0 auto; 
-    letter-spacing: .15em; 
-    animation: 
-      typing 3.5s steps(30, end),
-      blink-caret .5s step-end infinite;
-  }
-  
-
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-  
- 
-  @keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: orange }
-  }
-
 ![TheusArcangelo GitHub stats](https://github-readme-stats.vercel.app/api?username=TheusArcangelo&show_icons=true&theme=tokyonight)
 ![TheusArcangelo GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TheusArcangelo&theme=tokyonight)
 
